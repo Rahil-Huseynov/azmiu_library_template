@@ -131,3 +131,13 @@ body {
         font-size: 35px;
     }
 }
+.error_message {
+    color: red;
+    font-size: 12px;
+    margin-top: 5px;
+  }
+  
+  .input_error {
+    border: 1px solid red;
+  }
+  
